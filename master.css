@@ -1,0 +1,61 @@
+*{margin: 0;padding: 0;text-decoration: none;}
+
+header                   {display: flex; justify-content: center;align-items: center;
+                          width: 100%;height: 200px; margin-top: 20px;
+                          }
+
+nav                      {height: 80px;max-width: 1200px;margin: auto;
+                          }
+
+nav ul                   {height: 80px;width: 1200px;font-size: 36px;margin-top: 50px;
+                          display: flex; justify-content: center; align-items: center;
+                          }
+
+nav li                   {display: flex; justify-content: center; align-items: center;
+                          }
+
+nav ul li a              {color: black; font-size: 1.1em;letter-spacing: -0.7px; text-transform: uppercase;
+                          }
+
+nav ul li a:hover        {color: #F81381;letter-spacing: 2px;font-weight: bolder;font-size: 46px;
+                          }
+
+.menu2                   {width: 300px;}
+.menu3                   {width: 300px;}
+.menu4                   {width: 400px;}
+.menu5                   {width: 400px;}
+.menu6                   {width: 500px;}
+
+
+
+.they                    {display: flex;justify-content: center;align-items: center;
+                          width: 100%;height: 800px;margin-top: 400px;
+                          }
+
+.img_wrap                {position: relative; margin-top: 600px;
+
+                          }
+
+.bg                      {display: flex;justify-content: center;align-items: center;
+                          }
+
+.kim                     {display: flex;justify-content: center;align-items: center;
+                          width: 100%; position: relative; bottom: 400px;
+                          }
+
+.hong                    {display: flex;justify-content: center;align-items: center;
+                          width: 100%;position: absolute;bottom: 1100px;
+                          }
+
+.poster                  {display: flex;justify-content: center;align-items: center;
+                          width: 100%;height: 400px;
+                          }
+
+.interview               {display: flex;justify-content: center;align-items:center;
+                          width: 100%; margin-bottom: 300px;height: 600px;margin-top: 400px;
+                          }
+
+.footer                  {display: flex; justify-content: center; align-items: center;
+                          width: 100%;background-color: black;color: white;
+                          height: 400px;font-weight: 100px;font-size: 30px;font-weight: bolder;
+                          }
