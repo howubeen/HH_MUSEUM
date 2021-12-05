@@ -26,13 +26,20 @@ nav ul li a:hover        {color: #F81381;letter-spacing: 2px;font-weight: bolder
 .menu5                   {width: 400px;}
 .menu6                   {width: 500px;}
 
+.bg_wrap                 {display: flex;justify-content: center;align-items:center;
+                          position: relative;height: 400px;margin-top: 600px;}
 
+.bg2                     {display: flex;justify-content: center;align-items:center;
+                          position: absolute;}
 
 .they                    {display: flex;justify-content: center;align-items: center;
-                          width: 100%;height: 800px;margin-top: 400px;
-                          }
+                          margin: 40px;
 
-.img_wrap                {position: relative; margin-top: 600px;
+
+                          position: absolute;}
+
+
+.img_wrap                {position: relative; margin-top: 700px;
 
                           }
 
@@ -59,3 +66,6 @@ nav ul li a:hover        {color: #F81381;letter-spacing: 2px;font-weight: bolder
                           width: 100%;background-color: black;color: white;
                           height: 400px;font-weight: 100px;font-size: 30px;font-weight: bolder;
                           }
+.hong:hover img          {transform: scale(1.05);;}
+.kim:hover img           {transform: scale(1.05);;}
+.they:hover img          {transform: scale(1.05);;}
